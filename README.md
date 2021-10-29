@@ -10,7 +10,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-#### The first analysis of outcomes was based on launch date of campaigns by using pivot table. With the use of pivot table, only theater campains were selected based on launch months and total number of corresponding campaign results was visualized. Below illustration shows the theater outcomes based on launch date. Link to the spreadsheet is as below:
+#### The first analysis of outcomes was based on launch date of campaigns by using pivot table. With the use of pivot table, only theater campains were selected based on launch months and total number of corresponding campaign results was visualized. Below illustration shows the theater outcomes based on launch date. Link to the spreadsheet containing the datasets is as below:
 
 https://github.com/davidbaek90/kickstarter-analysis/raw/main/Kickstarter_Challenge.zip
 
@@ -38,4 +38,4 @@ https://github.com/davidbaek90/kickstarter-analysis/raw/main/Kickstarter_Challen
   - The number of calcelled data in the "Theatre Outcomes Based on Launch Date" is missing from the dataset, which could potentialliy impact the trend especially during the month of October where both successful and failed number of campains tend to peak locally. For the "Outcomes Based on Goals", the duration of the campaign (end date minus start date) is not consistant. Longer campaigns might be more successful because it can prolong the campaign long enough to raise close to the goal. Hence, it is not the most fair method to compare the success between the campaigns.
 
 - What are some other possible tables and/or graphs that we could create?
- - We could create a pie graph to show a pattern of demographic outcome based on location. This way we could possible conclude certain countries might show successful campaign results compared to another. We could also reinfor our previous graphs with histogram that shows a rate of success based on the duration of the campaign held. This way we could look at multiple other variables that impacts the success of the campaigns.
+  - We could create a pie graph to show a pattern of demographic outcome based on location. This way we could possible conclude certain countries might show successful campaign results compared to another. We could also reinfor our previous graphs with histogram that shows a rate of success based on the duration of the campaign held. This way we could look at multiple other variables that impacts the success of the campaigns.
